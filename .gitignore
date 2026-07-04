@@ -1,0 +1,11 @@
+# Visual Studio / VS Code local settings
+.vs/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
